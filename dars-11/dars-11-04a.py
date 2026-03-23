@@ -1,8 +1,8 @@
 #Asilbek Asqarov
 #Mohirdev python-darslari 
-#dars-11-04
+#dars-11-04a
 
-#task4
+#task4a
 mahsulotlar = ['anor', 'uzum', 'olma', 'tarvuz', 'shaftoli', 'somsa', 'shashlik', 'osh', 'asal', 'un']
 savat = []
 for n in range(5):
